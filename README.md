@@ -1,10 +1,8 @@
-| 这个作业属于哪个课程 | https://edu.cnblogs.com/campus/gdgy/CSGrade22-34 |
+| 这个作业属于哪个课程 |<https://edu.cnblogs.com/campus/gdgy/CSGrade22-34>|
 
-| ----------------- |--------------- |
+| 这个作业要求在哪里 |<https://edu.cnblogs.com/campus/gdgy/CSGrade22-34/homework/13228>|
 
-| 这个作业要求在哪里| https://edu.cnblogs.com/campus/gdgy/CSGrade22-34/homework/13228 |
-
-| 这个作业的目标 |对GitHub和博客园，以及软件工程这门课有初步的认知|
+| 这个作业的目标 |<对GitHub和博客园，以及软件工程这门课有初步的认知>|
 
 #**自我介绍**
 
